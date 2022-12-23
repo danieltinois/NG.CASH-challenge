@@ -1,0 +1,154 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+.body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+.texthello {
+  width: 100vw;
+  height: 20vh;
+  display: flex;
+  justify-content: flex-start;
+  padding: 3% 5%;
+  font-size: 1.5em;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.nameclient {
+  color: #7b4bc4;
+  text-transform: none;
+}
+
+.balance {
+  padding: auto;
+  height: 23vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.youbalance {
+  font-size: 1em;
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.89);
+  text-transform: uppercase;
+}
+
+.money {
+  margin-top: 20px;
+  font-size: 2em;
+  font-weight: 700;
+  color: green;
+}
+
+.balanceStyle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 50px 120px;
+  box-shadow: 0px 1px 10px #00000086;
+  border-radius: 8px;
+  width: 30rem;
+  height: 15rem;
+}
+
+.buttonShowMoney {
+  background-color: transparent;
+  border: none;
+  color: #000;
+}
+
+.visualizarSaldo {
+  display: flex;
+  justify-content: end;
+}
+
+.container_extrato {
+  display: flex;
+  justify-content: center;
+  padding-top: 2rem;
+}
+
+.main_extrato {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 0px 1px 10px #00000086;
+  width: 50rem;
+  height: 20rem;
+}
+
+.iconSearch {
+  position: relative;
+  top: 0rem;
+  right: 2rem;
+  color: #939393;
+}
+
+.main_btn {
+  position: relative;
+  right: auto;
+  padding: 20px;
+}
+
+.main_form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 0px 1px 10px #00000086;
+  width: 30rem;
+  height: 15rem;
+  border-radius: 8px;
+}
+
+.container_form {
+  padding: 1em;
+}
+
+.main_btn_login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0px;
+}
+
+.btn_login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #7b4bc4;
+  outline: none;
+  background: #7b4bc4;
+  font-size: 1.5em;
+  color: #fff;
+  border-radius: 8px;
+  padding: 2px 20px;
+  transition: all 0.6s ease;
+  cursor: pointer;
+  user-select: none;
+}
+
+.btn_login:hover {
+  color: #7b4bc4;
+  background: #fff;
+}
+
+.main_input {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px 0px;
+}
+
+.tittle_form {
+  padding: 0;
+  margin: 0;
+  font-size: 1em;
+  font-weight: 700;
+}
