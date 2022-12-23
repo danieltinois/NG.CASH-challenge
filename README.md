@@ -5,11 +5,9 @@
 ## 📱 Layout
 
 <div align="center">
-  <img src="./src/assets/imgPrints/home.png" width="320" heigth="320">
-  <img src="./src/assets/imgPrints/home.png" width="320" heigth="320">
-  <img src="./src/assets/imgPrints/home.png" width="320" heigth="320">
-  <img src="./src/assets/imgPrints/home.png" width="320" heigth="320">
-  <img src="./src/assets/imgPrints/home.png" width="320" heigth="320">
+  <img src="./src/assets/imgPrints/login.png" width="320" heigth="320">
+  <img src="./src/assets/imgPrints/register.png" width="320" heigth="320">
+  <img src="./src/assets/imgPrints/registerFunci.png" width="320" heigth="320">
   <img src="./src/assets/imgPrints/home.png" width="320" heigth="320">
 </div>
 
