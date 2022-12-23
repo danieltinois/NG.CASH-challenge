@@ -11,12 +11,10 @@
   <img src="./src/assets/imgPrints/home.png"width="700" heigth="320">
 </div>
 
+
 ## ✔️ Técnicas e tecnologias utilizadas
-
 Lista de tecnologias que foram usadas nesse projeto:
-
 <br>
-
 ### Frontend
 
 ![React](https://img.shields.io/badge/-REACT-brightgreen)
